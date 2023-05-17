@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-04-26T18:34:59" hostname="Alexanders-MacBook-Pro.local" time="0.11">
+  <properties/>
+  <testcase name="testConvertAudToUsd()" classname="MainTest" time="0.083"/>
+  <testcase name="testConvertChfToUsd()" classname="MainTest" time="0.003"/>
+  <testcase name="testConvertCurrencyToUsd()" classname="MainTest" time="0.007"/>
+  <testcase name="testConvertCnhToUsd()" classname="MainTest" time="0.005"/>
+  <testcase name="testConvertKwdToUsd()" classname="MainTest" time="0.002"/>
+  <testcase name="testConvertGbpToUsd()" classname="MainTest" time="0.0"/>
+  <testcase name="testConvertCadToUsd()" classname="MainTest" time="0.001"/>
+  <testcase name="testConvertEurToUsd()" classname="MainTest" time="0.0"/>
+  <testcase name="testConvertBhdToUsd()" classname="MainTest" time="0.0"/>
+  <testcase name="testConvertJpyToUsd()" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
